@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\bin\Debug\net6.0\CourseMenegementProject.exe
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\bin\Debug\net6.0\CourseMenegementProject.deps.json
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\bin\Debug\net6.0\CourseMenegementProject.runtimeconfig.json
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\bin\Debug\net6.0\CourseMenegementProject.dll
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\bin\Debug\net6.0\CourseMenegementProject.pdb
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.AssemblyInfo.cs
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.dll
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\refint\CourseMenegementProject.dll
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.pdb
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\CourseMenegementProject.genruntimeconfig.cache
+C:\Users\user\Desktop\CourseMenegment\CourseMenegementProject\CourseMenegementProject\obj\Debug\net6.0\ref\CourseMenegementProject.dll
